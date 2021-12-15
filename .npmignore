@@ -1,0 +1,12 @@
+.travis.yml
+.doclets.yml
+examples
+test
+.idea
+sentry
+servers
+*.log
+*.hbs
+.vscode
+generate_README.sh
+README.hbs
